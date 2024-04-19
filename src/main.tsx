@@ -1,3 +1,4 @@
+import React from 'react'
 import ReactDOM from 'react-dom/client'
 import ParamEditor from './App.tsx'
 import './index.css'
